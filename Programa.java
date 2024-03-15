@@ -8,7 +8,8 @@ public class Programa {
         //Exercicio4.executar();
         //Exercicio5.executar();
         //Exercicio6.executar();
-        Exercicio7.executar();
+        //Exercicio7.executar();
+        Exercicio8.executar();
     }
 
 }
